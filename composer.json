@@ -9,7 +9,6 @@
         }
     ],
     "require": {
-        "php": "^5.5 || ^7.0",
         "seld/jsonlint": "^1.4",
         "symfony/polyfill-php70": "^1.4",
         "symfony/polyfill-php71": "^1.0",
